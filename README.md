@@ -1,4 +1,4 @@
-# Machine-Learning-course
+# Sarcasm Detection
 Detection of ambiguous (sarcasm, mockery) insults
 
 
